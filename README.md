@@ -1,3 +1,5 @@
-<h1>SEGREDO</h1>
+<h1 align="center"> SEGREDO </h1>
 
-<p>Em breve</p>
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
