@@ -12,7 +12,7 @@ function App() {
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
-        <a href="https://react.dev" target="_blank">
+        <a href="https://www.geosol.com.br/" target="_blank">
           <img src={geoparLogo} className="logo geopar" alt="React logo" />
         </a>
       </div>
